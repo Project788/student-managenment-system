@@ -1,6 +1,7 @@
-Student Management System (SMS) – HTML, CSS, JavaScript
+# Student Management System (SMS) – HTML, CSS, JavaScript:-
 
 1. Introduction:
+
 A Student Management System (SMS) is a web-based application designed to manage student records efficiently.
 
 Built using HTML, CSS, and JavaScript, it provides a user-friendly interface for handling student details.
@@ -10,6 +11,7 @@ Helps educational institutions track student information, performance, and atten
 Aims to reduce paperwork and automate administrative tasks.
 
 2. Features:
+
 Student Registration: Add, edit, and delete student details.
 
 User Authentication: Secure login/logout functionality.
@@ -27,6 +29,7 @@ Performance Records: Stores student grades and academic performance.
 Dynamic UI: Uses JavaScript for real-time updates and interactions.
 
 3. Uses:
+
 Educational Institutions: Schools, colleges, and universities use SMS to manage student data.
 
 Tutoring Centers: Helps private tutors track students’ progress.
@@ -38,6 +41,7 @@ Corporate Training: Tracks employee training and assessments.
 Personal Use: Small-scale use for managing personal student databases.
 
 4. Conclusion:
+
 A Student Management System simplifies student record management, making it more efficient, accurate, and time-saving.
 
 Built with HTML, CSS, and JavaScript, it is a lightweight, customizable, and scalable solution.
