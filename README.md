@@ -28,7 +28,7 @@ Teachers & Staff: Simplifies tracking student performance and generating reports
 
 Students & Parents: Provides real-time access to grades, attendance, and notices.
 
-Online Learning Platforms: Assists in student registration, progress tracking, and assessments.
+Online Platforms: Assists in student registration, progress tracking, and assessments.
 
 4. Limitations
 
@@ -45,8 +45,6 @@ Scalability Issues: Difficult to handle large datasets without a proper backend.
 Student Registration: Allows students to register with basic details.
 
 Dashboard: Displays student information dynamically.
-
-Attendance Management: Enables tracking of student attendance.
 
 Grade Management: Facilitates entering and displaying student grades.
 
